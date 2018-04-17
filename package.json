@@ -1,0 +1,12 @@
+{
+  "name": "compile-cordova-plugins",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*",
+    "typescript": "*"
+  },
+  "author": "Yoav Zibin"
+}
