@@ -6,6 +6,7 @@
     "grunt-contrib-concat": "*",
     "grunt-contrib-copy": "*",
     "grunt-contrib-uglify": "*",
+    "load-grunt-tasks": "*",
     "typescript": "*"
   },
   "author": "Yoav Zibin"
